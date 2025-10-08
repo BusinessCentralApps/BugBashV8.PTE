@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/bugsbash/v8.0/Actions/.Modules/settings.schema.json",
   "overwriteSettings": [
     "appFolders",
-    "useCompilerFolder"
+    "useCompilerFolder",
+    "MyCustomObject"
   ],
   "appFolders": [
     "BingMaps",
@@ -10,9 +11,9 @@
   ],
   "MyCustomObject": {
     "SomeArray": [
-      "element1",
-      "element2",
-      "element3"
+      "element4",
+      "element5",
+      "element6"
     ]
   },
   "useCompilerFolder": true
