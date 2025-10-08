@@ -10,6 +10,9 @@
   ],
   "RepoVersion": "25.0",
   "MyCustomObject": {
-    "SomeArray": ["element1", "element2"]
+    "SomeArray": [
+      "element1",
+      "element2"
+    ]
   }
 }
