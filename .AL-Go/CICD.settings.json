@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/bugsbash/v8.0/Actions/.Modules/settings.schema.json",
   "overwriteSettings": ["appFolders", "useCompilerFolder"],
   "appFolders": [
-    "BingMaps"
+    "BingMaps",
+    "GoogleMaps"
   ],
-  "useCompilerFolder": false
+  "useCompilerFolder": true
 }
