@@ -8,5 +8,8 @@
   "testFolders": [
     "BingMaps.Test"
   ],
-  "RepoVersion": "25.0"
+  "RepoVersion": "25.0",
+  "MyCustomObject": {
+    "SomeArray": ["element1", "element2"]
+  }
 }
